@@ -1,0 +1,46 @@
+# Large files that exceed GitHub limits
+design/presentations/Trinavia-Brand-presentation.ai
+design/presentations/Trinavia-Brand-presentation.pdf
+
+# Large research papers (>25MB)
+docs/Research\ Papers/remotesensing-16-00584.pdf
+
+# Large stock images and design files
+design/brand-assets/stock/stock-*.jpg
+design/brand-assets/stock/stock-*.png
+
+# Large mockups
+design/brand-assets/mockups/mockup-*.png
+design/brand-assets/mockups/stylescape*.png
+
+# System files
+.DS_Store
+**/.DS_Store
+
+# Development files
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.temp
