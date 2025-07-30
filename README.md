@@ -1,6 +1,6 @@
 <div align="center">
 
-![Trinavia Logo](design/brand-assets/logos/emblem-noname-transparent.png)
+![Trinavia Mockup](design/brand-assets/mockups/mockup-14.png)
 
 # Trinavia
 
