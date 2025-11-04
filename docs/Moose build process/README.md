@@ -104,72 +104,46 @@ Develop and integrate specialized sensor modules for agricultural data collectio
 
 ## Build Progress Gallery
 
-### Phase 1: Initial 3D Printing
-
 <table>
 <tr>
-<td width="50%"><strong>Fuselage Sections</strong><br><img src="Media/IMG_6518 2.HEIC" alt="Fuselage printing" width="100%"/></td>
-<td width="50%"><strong>Wing Assembly</strong><br><img src="Media/IMG_6519 2.HEIC" alt="Wing assembly" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6518 2.HEIC" alt="Fuselage printing" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6519 2.HEIC" alt="Wing assembly" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6561 2.PNG" alt="Build progress" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><strong>Early Build Progress</strong><br><img src="Media/IMG_6561 2.PNG" alt="Build progress" width="100%"/></td>
-<td width="50%"><strong>Carbon Fiber Spar Integration</strong><br><img src="Media/IMG_6562 2.PNG" alt="Spar integration" width="100%"/></td>
-</tr>
-</table>
-
-### Phase 2: Structural Assembly
-
-<table>
-<tr>
-<td width="50%"><strong>Wing Structure</strong><br><img src="Media/IMG_6563 2.PNG" alt="Wing structure" width="100%"/></td>
-<td width="50%"><strong>Fuselage Assembly</strong><br><img src="Media/IMG_6572 2.HEIC" alt="Fuselage assembly" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6562 2.PNG" alt="Spar integration" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6563 2.PNG" alt="Wing structure" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6572 2.HEIC" alt="Fuselage assembly" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><strong>Flight Controller Mounting</strong><br><img src="Media/IMG_6584 2.HEIC" alt="Flight controller" width="100%"/></td>
-<td width="50%"><strong>Motor Installation</strong><br><img src="Media/IMG_6597 2.HEIC" alt="Motor installation" width="100%"/></td>
-</tr>
-</table>
-
-### Phase 3: Electronic Integration
-
-<table>
-<tr>
-<td width="50%"><strong>Servo Integration</strong><br><img src="Media/IMG_6695 2.HEIC" alt="Servo integration" width="100%"/></td>
-<td width="50%"><strong>Complete Airframe</strong><br><img src="Media/IMG_6708 2.JPG" alt="Complete airframe" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6584 2.HEIC" alt="Flight controller" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6597 2.HEIC" alt="Motor installation" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6695 2.HEIC" alt="Servo integration" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><strong>Control Surface Testing</strong><br><img src="Media/IMG_6709 2.JPG" alt="Control surfaces" width="100%"/></td>
-<td width="50%"><strong>Pre-Flight Check</strong><br><img src="Media/IMG_6710 2.JPG" alt="Pre-flight check" width="100%"/></td>
-</tr>
-</table>
-
-### Phase 4: Final Assembly & Testing
-
-<table>
-<tr>
-<td width="50%"><strong>Final Assembly Detail</strong><br><img src="Media/IMG_6726 2.HEIC" alt="Assembly detail" width="100%"/></td>
-<td width="50%"><strong>Ready for Flight</strong><br><img src="Media/IMG_6727 2.JPG" alt="Ready for flight" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6708 2.JPG" alt="Complete airframe" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6709 2.JPG" alt="Control surfaces" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6710 2.JPG" alt="Pre-flight check" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><strong>Ground Testing</strong><br><img src="Media/IMG_6728 2.JPG" alt="Ground testing" width="100%"/></td>
-<td width="50%"><strong>Payload Compartment</strong><br><img src="Media/IMG_6765 2.HEIC" alt="Payload compartment" width="100%"/></td>
-</tr>
-</table>
-
-### Phase 5: Advanced Integration
-
-<table>
-<tr>
-<td width="50%"><strong>Sensor Integration Prep</strong><br><img src="Media/IMG_6767 2.HEIC" alt="Sensor prep" width="100%"/></td>
-<td width="50%"><strong>Wiring Harness</strong><br><img src="Media/IMG_6774 2.HEIC" alt="Wiring harness" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6726 2.HEIC" alt="Assembly detail" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6727 2.JPG" alt="Ready for flight" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6728 2.JPG" alt="Ground testing" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><strong>Final Integration</strong><br><img src="Media/IMG_6779 2.HEIC" alt="Final integration" width="100%"/></td>
-<td width="50%"><strong>System Testing</strong><br><img src="Media/IMG_6816 2.HEIC" alt="System testing" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6765 2.HEIC" alt="Payload compartment" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6767 2.HEIC" alt="Sensor prep" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6774 2.HEIC" alt="Wiring harness" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><strong>Quality Assurance</strong><br><img src="Media/IMG_6868 2.HEIC" alt="Quality assurance" width="100%"/></td>
-<td width="50%"><strong>Final Inspection</strong><br><img src="Media/IMG_6869 2.HEIC" alt="Final inspection" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6779 2.HEIC" alt="Final integration" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6816 2.HEIC" alt="System testing" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6868 2.HEIC" alt="Quality assurance" width="100%"/></td>
+</tr>
+<tr>
+<td width="33%"><img src="Media/IMG_6869 2.HEIC" alt="Final inspection" width="100%"/></td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
 
