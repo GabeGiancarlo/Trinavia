@@ -106,23 +106,38 @@ Develop and integrate specialized sensor modules for agricultural data collectio
 
 <table>
 <tr>
-<td width="33%"><img src="Media/IMG_6561 2.PNG" alt="Build progress" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6518 2.jpg" alt="Fuselage printing" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6519 2.jpg" alt="Wing assembly" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6561 2.jpg" alt="Build progress" width="200"/></td>
+</tr>
+<tr>
 <td width="33%"><img src="Media/IMG_6562 2.PNG" alt="Spar integration" width="200"/></td>
 <td width="33%"><img src="Media/IMG_6563 2.PNG" alt="Wing structure" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6584 2.jpg" alt="Flight controller" width="200"/></td>
 </tr>
 <tr>
+<td width="33%"><img src="Media/IMG_6695 2.jpg" alt="Servo integration" width="200"/></td>
 <td width="33%"><img src="Media/IMG_6708 2.JPG" alt="Complete airframe" width="200"/></td>
 <td width="33%"><img src="Media/IMG_6709 2.JPG" alt="Control surfaces" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6710 2.JPG" alt="Pre-flight check" width="200"/></td>
 </tr>
 <tr>
+<td width="33%"><img src="Media/IMG_6710 2.JPG" alt="Pre-flight check" width="200"/></td>
 <td width="33%"><img src="Media/IMG_6727 2.JPG" alt="Ready for flight" width="200"/></td>
 <td width="33%"><img src="Media/IMG_6728 2.JPG" alt="Ground testing" width="200"/></td>
+</tr>
+<tr>
+<td width="33%"><img src="Media/IMG_6765 2.jpg" alt="Payload compartment" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6774 2.jpg" alt="Wiring harness" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6779 2.jpg" alt="Final integration" width="200"/></td>
+</tr>
+<tr>
+<td width="33%"><img src="Media/IMG_5528.jpg" alt="Build documentation" width="200"/></td>
+<td width="33%"></td>
 <td width="33%"></td>
 </tr>
 </table>
 
-> **Note**: HEIC format images are not supported for display on GitHub. Currently showing only JPG and PNG images. To view all build progress photos including those in HEIC format, please download the Media folder. A video documentation file (`video_2025-09-22_11-41-07 2.MP4`) is also available showcasing the complete build process.
+> **Note**: A video documentation file (`video_2025-09-22_11-41-07 2.MP4`) is also available in the Media folder showcasing the complete build process.
 
 ---
 
