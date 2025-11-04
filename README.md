@@ -1,10 +1,27 @@
 <div align="center">
 
-![Trinavia Mockup](design/brand-assets/mockups/mockup-14.png)
-
 # Trinavia
 
 **Precision Agriculture Solutions for Viticulture**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="design/brand-assets/logos/emblem-trinavia.png" alt="Trinavia Emblem" width="150"/>
+</td>
+<td align="center" width="25%">
+<img src="design/brand-assets/logos/trinavia_grapes_transparent.png" alt="Trinavia Grapes" width="150"/>
+</td>
+<td align="center" width="25%">
+<img src="design/brand-assets/logos/Propeller.png" alt="Propeller" width="150"/>
+</td>
+<td align="center" width="25%">
+<img src="docs/Moose build process/Media/IMG_6708 2.JPG" alt="Moose UAV" width="150"/>
+</td>
+</tr>
+</table>
+
+![Trinavia Platform](design/brand-assets/mockups/mockup-14.png)
 
 </div>
 
@@ -20,6 +37,20 @@ We are currently developing a 3D-printed fixed-wing UAV platform as a foundation
 - **3D Modeling & Manufacturing**: CAD design, additive manufacturing, and material optimization
 - **Autonomous Systems**: Flight control algorithms and automated mission planning
 - **Sensor Development**: Integration of RGB, spectral, thermal, and LiDAR sensors for agricultural data collection
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="docs/Moose build process/Media/IMG_6708 2.JPG" alt="Moose Complete Airframe" width="200"/>
+</td>
+<td align="center" width="33%">
+<img src="docs/Moose build process/Media/IMG_6727 2.JPG" alt="Moose Ready for Flight" width="200"/>
+</td>
+<td align="center" width="33%">
+<img src="docs/Moose build process/Media/IMG_6709 2.JPG" alt="Moose Control Surfaces" width="200"/>
+</td>
+</tr>
+</table>
 
 **Status**: Project Airborne - Final Assembly & Integration  
 **Learn More**: [Moose Build Process Documentation](docs/Moose%20build%20process/README.md)

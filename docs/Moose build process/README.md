@@ -106,48 +106,23 @@ Develop and integrate specialized sensor modules for agricultural data collectio
 
 <table>
 <tr>
-<td width="33%"><img src="Media/IMG_6518 2.HEIC" alt="Fuselage printing" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6519 2.HEIC" alt="Wing assembly" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6561 2.PNG" alt="Build progress" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6561 2.PNG" alt="Build progress" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6562 2.PNG" alt="Spar integration" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6563 2.PNG" alt="Wing structure" width="200"/></td>
 </tr>
 <tr>
-<td width="33%"><img src="Media/IMG_6562 2.PNG" alt="Spar integration" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6563 2.PNG" alt="Wing structure" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6572 2.HEIC" alt="Fuselage assembly" width="100%"/></td>
+<td width="33%"><img src="Media/IMG_6708 2.JPG" alt="Complete airframe" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6709 2.JPG" alt="Control surfaces" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6710 2.JPG" alt="Pre-flight check" width="200"/></td>
 </tr>
 <tr>
-<td width="33%"><img src="Media/IMG_6584 2.HEIC" alt="Flight controller" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6597 2.HEIC" alt="Motor installation" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6695 2.HEIC" alt="Servo integration" width="100%"/></td>
-</tr>
-<tr>
-<td width="33%"><img src="Media/IMG_6708 2.JPG" alt="Complete airframe" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6709 2.JPG" alt="Control surfaces" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6710 2.JPG" alt="Pre-flight check" width="100%"/></td>
-</tr>
-<tr>
-<td width="33%"><img src="Media/IMG_6726 2.HEIC" alt="Assembly detail" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6727 2.JPG" alt="Ready for flight" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6728 2.JPG" alt="Ground testing" width="100%"/></td>
-</tr>
-<tr>
-<td width="33%"><img src="Media/IMG_6765 2.HEIC" alt="Payload compartment" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6767 2.HEIC" alt="Sensor prep" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6774 2.HEIC" alt="Wiring harness" width="100%"/></td>
-</tr>
-<tr>
-<td width="33%"><img src="Media/IMG_6779 2.HEIC" alt="Final integration" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6816 2.HEIC" alt="System testing" width="100%"/></td>
-<td width="33%"><img src="Media/IMG_6868 2.HEIC" alt="Quality assurance" width="100%"/></td>
-</tr>
-<tr>
-<td width="33%"><img src="Media/IMG_6869 2.HEIC" alt="Final inspection" width="100%"/></td>
-<td width="33%"></td>
+<td width="33%"><img src="Media/IMG_6727 2.JPG" alt="Ready for flight" width="200"/></td>
+<td width="33%"><img src="Media/IMG_6728 2.JPG" alt="Ground testing" width="200"/></td>
 <td width="33%"></td>
 </tr>
 </table>
 
-> **Note**: Some images are in HEIC format. For best compatibility, consider converting to JPG for GitHub display. A video documentation file (`video_2025-09-22_11-41-07 2.MP4`) is also available in the Media folder showcasing the build process.
+> **Note**: HEIC format images are not supported for display on GitHub. Currently showing only JPG and PNG images. To view all build progress photos including those in HEIC format, please download the Media folder. A video documentation file (`video_2025-09-22_11-41-07 2.MP4`) is also available showcasing the complete build process.
 
 ---
 
