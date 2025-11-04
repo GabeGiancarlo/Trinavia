@@ -6,17 +6,20 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="design/brand-assets/logos/emblem-trinavia.png" alt="Trinavia Emblem" width="150"/>
+<td align="center" width="20%">
+<img src="design/brand-assets/logos/emblem-trinavia.png" alt="Trinavia Emblem" width="120"/>
 </td>
-<td align="center" width="25%">
-<img src="design/brand-assets/logos/trinavia_grapes_transparent.png" alt="Trinavia Grapes" width="150"/>
+<td align="center" width="20%">
+<img src="design/brand-assets/logos/trinavia_grapes_transparent.png" alt="Trinavia Grapes" width="120"/>
 </td>
-<td align="center" width="25%">
-<img src="design/brand-assets/logos/Propeller.png" alt="Propeller" width="150"/>
+<td align="center" width="20%">
+<img src="design/brand-assets/logos/Propeller.png" alt="Propeller" width="120"/>
 </td>
-<td align="center" width="25%">
-<img src="docs/Moose build process/Media/IMG_6708 2.JPG" alt="Moose UAV" width="150"/>
+<td align="center" width="20%">
+<img src="design/brand-assets/logos/Emblem-trinavia-clear.png" alt="Trinavia Clear" width="120"/>
+</td>
+<td align="center" width="20%">
+<img src="design/brand-assets/logos/emblem-noname-transparent.png" alt="Emblem" width="120"/>
 </td>
 </tr>
 </table>
@@ -40,14 +43,17 @@ We are currently developing a 3D-printed fixed-wing UAV platform as a foundation
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="docs/Moose build process/Media/IMG_6708 2.JPG" alt="Moose Complete Airframe" width="200"/>
+<td align="center" width="25%">
+<img src="docs/Moose build process/Media/IMG_6518 2.jpg" alt="Fuselage Printing" width="180"/>
 </td>
-<td align="center" width="33%">
-<img src="docs/Moose build process/Media/IMG_6727 2.JPG" alt="Moose Ready for Flight" width="200"/>
+<td align="center" width="25%">
+<img src="docs/Moose build process/Media/IMG_6708 2.JPG" alt="Complete Airframe" width="180"/>
 </td>
-<td align="center" width="33%">
-<img src="docs/Moose build process/Media/IMG_6709 2.JPG" alt="Moose Control Surfaces" width="200"/>
+<td align="center" width="25%">
+<img src="docs/Moose build process/Media/IMG_6727 2.JPG" alt="Ready for Flight" width="180"/>
+</td>
+<td align="center" width="25%">
+<img src="docs/Moose build process/Media/IMG_6765 2.jpg" alt="Payload Compartment" width="180"/>
 </td>
 </tr>
 </table>
