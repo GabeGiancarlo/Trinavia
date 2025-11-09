@@ -39,19 +39,19 @@ We are developing a 3D-printed fixed-wing UAV platform as the foundation for our
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="docs/Moose build process/Media/IMG_6708 2.JPG" alt="Complete Airframe" width="160"/>
+<img src="docs/Moose build process/Media/FUS-wings-tail.jpg" alt="Complete Airframe" width="160"/>
 <br><small><strong>Complete Airframe</strong></small>
 </td>
 <td align="center" width="25%">
-<img src="docs/Moose build process/Media/IMG_6727 2.JPG" alt="Ready for Flight" width="160"/>
-<br><small><strong>Ready for Flight</strong></small>
+<img src="docs/Moose build process/Media/complete-FUS-mounted-tailbase.jpg" alt="Final Assembly" width="160"/>
+<br><small><strong>Final Assembly</strong></small>
 </td>
 <td align="center" width="25%">
-<img src="docs/Moose build process/Media/IMG_6765 2.jpg" alt="Payload Compartment" width="160"/>
-<br><small><strong>Payload Integration</strong></small>
+<img src="docs/Moose build process/Media/finished-FUS-2.JPG" alt="Fuselage Assembly" width="160"/>
+<br><small><strong>Fuselage Assembly</strong></small>
 </td>
 <td align="center" width="25%">
-<img src="docs/Moose build process/Media/IMG_6518 2.jpg" alt="3D Printing" width="160"/>
+<img src="docs/Moose build process/Media/3dPrinter.jpg" alt="3D Printing" width="160"/>
 <br><small><strong>3D Manufacturing</strong></small>
 </td>
 </tr>
@@ -117,6 +117,7 @@ Trinavia/
 │   └── presentations/         # Brand presentation materials
 ├── docs/                      # Documentation and research
 │   ├── Moose build process/   # Active UAV development project
+│   ├── Sensor Payload Development/  # Custom multi-sensor payload system
 │   ├── drafts/                # Content specifications
 │   └── Research Papers/       # Academic research on precision agriculture
 ├── src/                       # Source code
@@ -129,6 +130,7 @@ Trinavia/
 
 - **`/design`**: Complete brand identity system with logos, mockups, and visual assets
 - **`/docs/Moose build process`**: Active hardware development - 3D-printed fixed-wing UAV documentation
+- **`/docs/Sensor Payload Development`**: Custom multi-sensor payload system (RGB, multispectral, thermal, LiDAR)
 - **`/docs/Research Papers`**: Academic research on drone technology, precision agriculture, and viticulture
 - **`/src`**: Platform source code for web and mobile applications
 
@@ -152,6 +154,7 @@ Trinavia/
 - RGB, spectral, thermal, and LiDAR sensors
 - Multi-sensor data synchronization
 - Real-time telemetry
+- **[Custom Sensor Payload Development →](docs/Sensor%20Payload%20Development/README.md)**
 
 ### Phase 4: Analytics Platform 📋
 - Data processing pipeline

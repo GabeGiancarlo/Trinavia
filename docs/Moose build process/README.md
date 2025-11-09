@@ -104,34 +104,46 @@ Develop and integrate specialized sensor modules for agricultural data collectio
 
 ## Build Progress Gallery
 
+### 3D Printing Phase
+
 <table>
 <tr>
-<td width="33%"><img src="Media/IMG_6518 2.jpg" alt="Fuselage printing" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6519 2.jpg" alt="Wing assembly" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6561 2.jpg" alt="Build progress" width="200"/></td>
+<td width="33%"><img src="Media/3dPrinter.jpg" alt="3D Printer Setup" width="200"/><br><small><strong>3D Printer Setup</strong></small></td>
+<td width="33%"><img src="Media/nose-in-slicer.jpg" alt="Nose Section in Slicer" width="200"/><br><small><strong>Nose Section in Slicer</strong></small></td>
+<td width="33%"><img src="Media/mobile-view-active-print.jpg" alt="Active Print Monitoring" width="200"/><br><small><strong>Active Print Monitoring</strong></small></td>
 </tr>
 <tr>
-<td width="33%"><img src="Media/IMG_6562 2.PNG" alt="Spar integration" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6563 2.PNG" alt="Wing structure" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6584 2.jpg" alt="Flight controller" width="200"/></td>
+<td width="33%"><img src="Media/mobile-view-active-print-2.PNG" alt="Print Progress View" width="200"/><br><small><strong>Print Progress View</strong></small></td>
+<td width="33%"><img src="Media/Failed-print.jpg" alt="Failed Print - Learning Experience" width="200"/><br><small><strong>Failed Print - Learning Experience</strong></small></td>
+<td width="33%"><img src="Media/almost-all-printed.jpg" alt="Nearly Complete Print Run" width="200"/><br><small><strong>Nearly Complete Print Run</strong></small></td>
+</tr>
+</table>
+
+### Fuselage Assembly
+
+<table>
+<tr>
+<td width="33%"><img src="Media/finished-main-FUS.jpg" alt="Finished Main Fuselage" width="200"/><br><small><strong>Finished Main Fuselage</strong></small></td>
+<td width="33%"><img src="Media/finished-FUS-printed.jpg" alt="Fuselage Components Printed" width="200"/><br><small><strong>Fuselage Components Printed</strong></small></td>
+<td width="33%"><img src="Media/finished-FUS-2.JPG" alt="Fuselage Assembly Complete" width="200"/><br><small><strong>Fuselage Assembly Complete</strong></small></td>
 </tr>
 <tr>
-<td width="33%"><img src="Media/IMG_6695 2.jpg" alt="Servo integration" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6708 2.JPG" alt="Complete airframe" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6709 2.JPG" alt="Control surfaces" width="200"/></td>
+<td width="33%"><img src="Media/gluing-FUS.JPG" alt="Fuselage Gluing Process" width="200"/><br><small><strong>Fuselage Gluing Process</strong></small></td>
+<td width="33%"><img src="Media/gluing-FUS-2.JPG" alt="Fuselage Bonding Detail" width="200"/><br><small><strong>Fuselage Bonding Detail</strong></small></td>
+<td width="33%"><img src="Media/FUS-glued-tail.jpg" alt="Fuselage with Tail Attached" width="200"/><br><small><strong>Fuselage with Tail Attached</strong></small></td>
+</tr>
+</table>
+
+### Final Assembly
+
+<table>
+<tr>
+<td width="33%"><img src="Media/FUS-wings-tail.jpg" alt="Complete Airframe with Wings and Tail" width="200"/><br><small><strong>Complete Airframe with Wings and Tail</strong></small></td>
+<td width="33%"><img src="Media/complete-FUS-mounted-tailbase.jpg" alt="Fuselage with Mounted Tail Base" width="200"/><br><small><strong>Fuselage with Mounted Tail Base</strong></small></td>
+<td width="33%"><img src="Media/complete-FUS-mounted-tailbase-2.jpg" alt="Tail Base Integration Detail" width="200"/><br><small><strong>Tail Base Integration Detail</strong></small></td>
 </tr>
 <tr>
-<td width="33%"><img src="Media/IMG_6710 2.JPG" alt="Pre-flight check" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6727 2.JPG" alt="Ready for flight" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6728 2.JPG" alt="Ground testing" width="200"/></td>
-</tr>
-<tr>
-<td width="33%"><img src="Media/IMG_6765 2.jpg" alt="Payload compartment" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6774 2.jpg" alt="Wiring harness" width="200"/></td>
-<td width="33%"><img src="Media/IMG_6779 2.jpg" alt="Final integration" width="200"/></td>
-</tr>
-<tr>
-<td width="33%"><img src="Media/IMG_5528.jpg" alt="Build documentation" width="200"/></td>
+<td width="33%"><img src="Media/reamining-FUS-in-slicer.jpg" alt="Remaining Fuselage Parts in Slicer" width="200"/><br><small><strong>Remaining Fuselage Parts in Slicer</strong></small></td>
 <td width="33%"></td>
 <td width="33%"></td>
 </tr>
